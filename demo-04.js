@@ -16,5 +16,4 @@ function hashString(input) {
     console.log("Hashed Characters:", changedChars.join(","));
 }
 
-// Example usage
 hashString("Watch me whip, watch me nae nae");
